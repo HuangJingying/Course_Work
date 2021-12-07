@@ -1,4 +1,4 @@
-According to the user requirements, the project team designed the project architecture as shown in Figure X, including seven modules of data acquisition and integration, descriptive data analysis, data cleaning, data pre-processing, neural network model, model evaluation, and establishment of credit scoring system.
+According to the user requirements, we designed the project architecture following, including seven modules of data acquisition and integration, descriptive data analysis, data cleaning, data pre-processing, neural network model, model evaluation, and establishment of credit scoring system.
 
 # Data source acquisition and integration 
 The historical data of China Railway Multi-Link integrated business system is exported and filtered, and data crawlers are used to complement the current data of the enterprise, and finally useless data are deleted and the required data are integrated
