@@ -16,9 +16,9 @@ In this project, I adopted Python to build a credit rating model for enterprises
 
 
 ## 3. Computational Biology (Python) 
-1.	Achieve global alignment of 2 sequences (Dynamic programming) Github 
-2.	Calculate the probabilities and optimal paths of amino acid sequences, using profile Hidden Markov Model. Github
-3.	Calculate the secondary structure of two rRNA sequences according to the SCFG model (Dynamic programming). Github
+1.	Achieve global alignment of 2 sequences (Dynamic programming). 
+2.	Calculate the probabilities and optimal paths of amino acid sequences, using profile Hidden Markov Model. 
+3.	Calculate the secondary structure of two rRNA sequences according to the SCFG model (Dynamic programming). 
 
 
 ## 4. Mobile Data Mining (Python & Spark)
