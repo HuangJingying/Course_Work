@@ -1,13 +1,5 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-"""
-======================
-@author: Jaron
-@time: 2020/11/25:16:08
-@email: fjjth98@163.com
-@description: implement Profile HMM model
-======================
-"""
 
 import warnings
 import numpy as np
