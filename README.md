@@ -30,9 +30,14 @@ do by seasonal_decompose
 
 # homework3
 •Data processing code
+
 train.py ; trace_handler.py ; embed.py
+
 •Collaborative filtering code
+
 recommender_sysytem_CF.py
+
 •Other analysis code
+
 DimReduce.py ; classify.py ; visualizing.py
 
