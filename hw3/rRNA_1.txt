@@ -1,0 +1,33 @@
+> seqence1:
+GAGGAAAGUCCCGCCUCCAGAUCAAGGGAAGUCCCGCGA
+.....))).))))).....))))).))))))))))....
+GGGACAAGGGUAGUACCCUUGGCAACUGCACAGAAAACUU
+((((())))).....((((())...))))...........
+ACCCCUAAAUAUUCAAUGAGGAUUUGAUUCGACUCUUACC
+.)))))))))))................))...)))))))
+UUGGCGACAAGGUAAGAUAGAUGAAGAGAAUAUUUAGGGG
+)))....((((((((((..((........(((((((((((
+UUGAAACGCAGUCCUUCCCGGAGCAAGUAGGGGGGUCAAU
+.......((((.(((((((.......)).))))))))..)
+GAGAAUGAUCUGAAGACCUCCCUUGACGCAUAGUCGAAUC
+)))..(((((((((((((((((...((.............
+CCCCAAAUACAGAAGCGGGCUUA
+..............((((((((.
+
+> sequence2:
+GAGGAAAGUCCCGCCUCCUGGCCUAAAGGAGUCUCUAUA
+.....))).))))).....))))).))))))))))....
+GAGACAAGGGCAACACCCUUGGCAACUAUACAGAAACAAG
+((((())))).....((((())...))))...........
+UACCUUGAAAGCUACAUGUGAAAAUGAUUGUGCCCCUUCC
+..)))))))))))...............)).....)))))
+UCUGGUAACGGAGGAAGAAACAUGAGAGUAGCUUUCAAGG
+))))....(((((((((...((.......(((((((((((
+AUGAAAAGAUAGACCUCCUAGGAGCAAGUAGAGGGAAAGA
+........((((.(((((((.......)).))))))))..
+UGAGACUAGGCCCGAUUUCCCUCUAGGACGCAUAGCCAAA
+ .)))...((((((((((((((((....((...........
+UCCCCCAACCAUUACAAAAGCGGGCUUA
+...................((((((((.
+
+

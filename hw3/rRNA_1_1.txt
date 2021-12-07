@@ -1,0 +1,16 @@
+> seqence1:
+GAGGAAAGUCCCGCCUCCAGAUCAAGGGAAGUCCCGCGA
+.....))).))))).....))))).))))))))))....
+GGGACAAGGGUAGUACCCUUGGCAACUGCACAGAAAACUU
+((((())))).....((((())...))))...........
+ACCCCUAAAUAUUCAAUGAGGAUUUGAUUCGACUCUUACC
+.)))))))))))................))...)))))))
+UUGGCGACAAGGUAAGAUAGAUGAAGAGAAUAUUUAGGGG
+)))....((((((((((..((........(((((((((((
+UUGAAACGCAGUCCUUCCCGGAGCAAGUAGGGGGGUCAAU
+.......((((.(((((((.......)).))))))))..)
+GAGAAUGAUCUGAAGACCUCCCUUGACGCAUAGUCGAAUC
+)))..(((((((((((((((((...((.............
+CCCCAAAUACAGAAGCGGGCUUA
+..............((((((((.
+
