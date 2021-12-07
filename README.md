@@ -1,29 +1,39 @@
-# Course_Work
+# homework1 
+## homwork1 experiment #1
+code : homework1_ex1.md
+spark data output : /user/huangjingying/homework1/ex1
+explanation for code : 
+1)	average traffic consumption of each user and each location:
+map and reduceByKey (key is user/location, do (x+y)/2 for traffic consumption)
+2)	user distribution in terms of locations :
+	map and countByKey(key is location, count number of users)
+3)	traffic consumption distribution in terms of location :
+	map and reduceByKey (key is location, add traffic consumption)
+4)	traffic consumption distribution in terms of users : 
+map and reduceByKey (key is user , add traffic consumption)
 
-Codes of a couple of computing courses: (See corrospanding branches)
-
-## 1. Course Name: C++ Programming (Programming Language: C++)
-
-In this project, I built a point conversion and trading system in C++. It contains thousands lines, covering the object-oriented programming knowledge points: classes, inheritance, polymorphism, arrays, chains, templates, etc. 
-
-## 2. Big Data Systems (Python) 
-
-In this project, I adopted Python to build a credit rating model for enterprises. Following are main steps.
-1. Use Numpy and Pandas to analyze the basic features and transaction data of all logistics enterprises.
-2. Use BeautifulSoup to scrapy external information of enterprises.
-2. Establish a credit rating model.
-3. Get a whitelist of logistics companies. 
-
-
-## 3. Computational Biology (Python) 
-1.	Achieve global alignment of 2 sequences (Dynamic programming). 
-2.	Calculate the probabilities and optimal paths of amino acid sequences, using profile Hidden Markov Model. 
-3.	Calculate the secondary structure of two rRNA sequences according to the SCFG model (Dynamic programming). 
+## homwork1 experiment #2
+spark code : hw1_ex2_sum_traffic_volumns_per_hour_of_one_bs-*.md
+python code : hw1_ex2_plot_traffic_volums_eachhour.py
+spark data output : /user/huangjingying/homework1/ex2 AND homwork1/ex2
+python output : homework/ex2
+1)	select the top 3 BSs(base station) with the largest traffic: 
+	sortBy for the result of traffic consumption distribution in terms of location and get top 3 locations with the largest traffic : (u'00309', 625502403937), (u'01077', 628462271341), (u'00332', 645735112712)
+this code is in homework1_ex1 annotated by “for homework2 0 select the top 3 BSs(base station) with the largest traffic”
+2)	get the traffic volume of the BSs in time_bins(1hour) : 
+	filter by location , map and reduceByKey (key is start time/3600)
+3)	trend component , periodical component ,residual componnent :
+do by seasonal_decompose
+4)	plot : title is location ID
+![image](https://user-images.githubusercontent.com/40894619/145006753-f08a9aea-7130-4d48-8ea4-87cd140169e0.png)
 
 
-## 4. Mobile Data Mining (Python & Spark)
-1.	Use Spark to process system and use time series model and network model to analyze the traffic data.
-2.	(Python) Implement clustering algorithms (Agglomerative hierarchical clustering, K-means, BFR, CURE) on mobile big data.
-3.	(Python) Representation Learning Reconstruction embedding & Use collaborative filtering to recommend apps to users 
-
+# homework3
+•Data processing code
+train.py ; trace_handler.py ; embed.py
+•Collaborative filtering code
+recommender_sysytem_CF.py
+•Other analysis code
+DimReduce.py ; classify.py ; visualizing.py
+![image](https://user-images.githubusercontent.com/40894619/145006920-4eac02f7-e968-4f0a-96f7-625c60a3029a.png)
 
