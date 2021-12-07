@@ -1,6 +1,6 @@
 # Course_Work
 
-Codes of a couple of computing courses: (See corrospanding branches)
+Codes of a couple of computing courses: (See corresponding branches)
 
 ## 1. Course Name: C++ Programming (Programming Language: C++)
 
