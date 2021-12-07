@@ -25,7 +25,7 @@ this code is in homework1_ex1 annotated by “for homework2 0 select the top 3 B
 3)	trend component , periodical component ,residual componnent :
 do by seasonal_decompose
 4)	plot : title is location ID
-![image](https://user-images.githubusercontent.com/40894619/145006753-f08a9aea-7130-4d48-8ea4-87cd140169e0.png)
+
 
 
 # homework3
@@ -35,5 +35,4 @@ train.py ; trace_handler.py ; embed.py
 recommender_sysytem_CF.py
 •Other analysis code
 DimReduce.py ; classify.py ; visualizing.py
-![image](https://user-images.githubusercontent.com/40894619/145006920-4eac02f7-e968-4f0a-96f7-625c60a3029a.png)
 
